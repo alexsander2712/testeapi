@@ -1,0 +1,437 @@
+[
+  {
+    "id_sku_global": "FY7756",
+    "marca": "Adidas",
+    "modelo": "Forum",
+    "silhueta": "Low",
+    "descricao_silhueta": "Cano baixo com tira de velcro no tornozelo",
+    "material_principal": [
+      "Couro",
+      "Cupsole de borracha"
+    ],
+    "tecnologia_amortecimento": "Entressola de borracha costurada com amortecimento em EVA interno",
+    "ano_lancamento_original": 1984,
+    "estilo_uso": [
+      "Casual",
+      "Urbano"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770467/Vans_Old_Skool1_dbzm1l.webp",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770467/Vans_Old_Skool2_sy1btr.webp",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770468/Vans_Old_Skool4_crxvpu.webp",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "019000",
+    "marca": "Adidas",
+    "modelo": "Samba",
+    "silhueta": "Low",
+    "descricao_silhueta": "Estilo chuteira de salão retrô",
+    "material_principal": [
+      "Couro",
+      "Biqueira em camurça (Suede)"
+    ],
+    "tecnologia_amortecimento": "Solado reto de borracha Gum (alta aderência)",
+    "ano_lancamento_original": 1949,
+    "estilo_uso": [
+      "Casual",
+      "Terrace",
+      "Indie Sleaze"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770314/Adidas_Samba_Leather5_qfojkx.avif",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770313/Adidas_Samba_Leather4_kunmsm.avif",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770313/Adidas_Samba_Leather3_vgsjmk.avif",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "EG4958",
+    "marca": "Adidas",
+    "modelo": "Superstar",
+    "silhueta": "Low",
+    "descricao_silhueta": "Com a famosa biqueira de borracha em formato de concha (Shell Toe)",
+    "material_principal": [
+      "Couro macio"
+    ],
+    "tecnologia_amortecimento": "Entressola de borracha clássica com ranhuras em zigue-zague",
+    "ano_lancamento_original": 1969,
+    "estilo_uso": [
+      "Streetwear",
+      "Clássico Hip-Hop"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770346/Adidas_Superstar1_q37mzp.avif",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770347/Adidas_Superstar4_noulhq.avif",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770346/Adidas_Superstar3_z47yr2.avif",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "DZ5485-612",
+    "marca": "Jordan (Nike)",
+    "modelo": "Air Jordan 1",
+    "silhueta": "High",
+    "descricao_silhueta": "Cano alto",
+    "material_principal": [
+      "Couro premium texturizado"
+    ],
+    "tecnologia_amortecimento": "Air Sole encapsulada no calcanhar",
+    "ano_lancamento_original": 1985,
+    "estilo_uso": [
+      "Basquete Retrô",
+      "Hype",
+      "Colecionador"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770363/Air_Jordan_1_High_OG_un6ksa.avif",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770360/Air_Jordan_1_High_OG3_zodcyx.jpg",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770360/Air_Jordan_1_High_OG2_lif8xr.jpg",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "1201A019-105",
+    "marca": "Asics",
+    "modelo": "GEL-Kayano 14",
+    "silhueta": "Low",
+    "descricao_silhueta": "Estilo corrida dos anos 2000 - Estética Y2K",
+    "material_principal": [
+      "Malha aberta (Mesh)",
+      "Sobreposições sintéticas metalizadas"
+    ],
+    "tecnologia_amortecimento": "Tecnologia de amortecimento GEL visível na frente e no calcanhar",
+    "ano_lancamento_original": 2008,
+    "estilo_uso": [
+      "Running Retrô",
+      "Sportstyle",
+      "Conforto"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770373/Asics_GEL-Kayano_14_vmkpb7.webp",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770373/Asics_GEL-Kayano_14_4_pdyvkb.webp",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770373/Asics_GEL-Kayano_14_3_kizsqd.webp",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "M9166",
+    "marca": "Converse",
+    "modelo": "Chuck Taylor All Star",
+    "silhueta": "Low",
+    "descricao_silhueta": "Versão Oxford (cano baixo)",
+    "material_principal": [
+      "Lona de algodão durável"
+    ],
+    "tecnologia_amortecimento": "Palmilha de espuma simples com solado de borracha vulcanizada",
+    "ano_lancamento_original": 1917,
+    "estilo_uso": [
+      "Casual Básico",
+      "Universal"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770379/Converse_Chuck_Taylor_All_Star_Canvas_Ox1_vk2fhr.webp",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770380/Converse_Chuck_Taylor_All_Star_Canvas_Ox3_rbinpw.webp",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770379/Converse_Chuck_Taylor_All_Star_Canvas_Ox2_ofbiba.webp",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "BB550PB1",
+    "marca": "New Balance",
+    "modelo": "550",
+    "silhueta": "Low",
+    "descricao_silhueta": "Estilo basquete anos 80/90",
+    "material_principal": [
+      "Couro",
+      "Malha respirável (Mesh)"
+    ],
+    "tecnologia_amortecimento": "Entressola de borracha robusta com espuma interna",
+    "ano_lancamento_original": 1989,
+    "estilo_uso": [
+      "Casual",
+      "Streetwear Retrô"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770395/New_Balance_550_5_fwrqgd.webp",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770395/New_Balance_550_2_jbfvov.webp",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770395/New_Balance_550_y0p2ad.webp",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "CW2288-111",
+    "marca": "Nike",
+    "modelo": "Air Force 1",
+    "silhueta": "Low",
+    "descricao_silhueta": "Cano baixo",
+    "material_principal": [
+      "Couro legítimo"
+    ],
+    "tecnologia_amortecimento": "Unidade Nike Air oculta na entressola",
+    "ano_lancamento_original": 1982,
+    "estilo_uso": [
+      "Casual",
+      "Streetwear"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770404/Nike_air_force_1_low_og1klj.avif",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770405/Nike_air_force_1_low4_znjdcn.avif",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770405/Nike_air_force_1_low2_yf5su7.avif",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "CT1685-100",
+    "marca": "Nike",
+    "modelo": "Air Max 90",
+    "silhueta": "Low",
+    "descricao_silhueta": "Cano baixo",
+    "material_principal": [
+      "Mesh",
+      "Camurça",
+      "Sobreposições de couro sintético"
+    ],
+    "tecnologia_amortecimento": "Cápsula Max Air visível no calcanhar",
+    "ano_lancamento_original": 1990,
+    "estilo_uso": [
+      "Casual",
+      "Cultura Pop",
+      "Air Max Enthusiasts"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770417/Nike_Air_Max_90_Infrared1_ush83n.avif",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770417/Nike_Air_Max_90_Infrared3_ey00or.avif",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770417/Nike_Air_Max_90_Infrared2_a6y0go.avif",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "DD1391-100",
+    "marca": "Nike",
+    "modelo": "Dunk",
+    "silhueta": "Low",
+    "descricao_silhueta": "Cano baixo",
+    "material_principal": [
+      "Couro"
+    ],
+    "tecnologia_amortecimento": "Espuma de EVA macia na entressola (foco em estilo, não performance)",
+    "ano_lancamento_original": 1985,
+    "estilo_uso": [
+      "Skateboarding",
+      "Streetwear"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770431/Nike_Dunk_Low_Pandas_vvhjlx.avif",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770431/Nike_Dunk_Low_Pandas3_ukrpgl.avif",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770431/Nike_Dunk_Low_Pandas5_zvyq0g.avif",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "BQ6817-001",
+    "variacao": "Black/White-Gum",
+    "marca": "Nike SB (Skateboarding)",
+    "modelo": "SB Dunk",
+    "silhueta": "Low",
+    "descricao_silhueta": "Língua gorda/acolchoada para skate",
+    "material_principal": [
+      "Camurça",
+      "Couro"
+    ],
+    "tecnologia_amortecimento": "Unidade Zoom Air na palmilha do calcanhar",
+    "ano_lancamento_original": 2002,
+    "estilo_uso": [
+      "Skateboarding",
+      "Hype"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770441/Nike_SB_Dunk_Low1_dhpbv4.avif",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770442/Nike_SB_Dunk_Low3_thmyq9.avif",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770442/Nike_SB_Dunk_Low2_aps0ua.avif",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "374915-01",
+    "marca": "Puma",
+    "modelo": "Suede",
+    "silhueta": "Low",
+    "descricao_silhueta": "Cano baixo",
+    "material_principal": [
+      "Camurça (Suede) premium"
+    ],
+    "tecnologia_amortecimento": "Solado cupsole de borracha texturizada",
+    "ano_lancamento_original": 1968,
+    "estilo_uso": [
+      "Casual",
+      "B-Boy",
+      "Old School"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770454/Puma_Suede_Classic1_vckllj.avif",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770455/Puma_Suede_Classic5_pjpq4r.avif",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770454/Puma_Suede_Classic4_qe0ydn.avif",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "VN000D3HY28",
+    "marca": "Vans",
+    "modelo": "Old Skool",
+    "silhueta": "Low",
+    "descricao_silhueta": "Cano baixo",
+    "material_principal": [
+      "Lona (Canvas)",
+      "Camurça"
+    ],
+    "tecnologia_amortecimento": "Palmilha de EVA tradicional e solado Waffle de borracha vulcanizada",
+    "ano_lancamento_original": 1977,
+    "estilo_uso": [
+      "Skate",
+      "Casual Diário"
+    ],
+    "imagens": [
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770467/Vans_Old_Skool1_dbzm1l.webp",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770467/Vans_Old_Skool2_sy1btr.webp",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "https://res.cloudinary.com/dv06nhz9j/image/upload/v1780770468/Vans_Old_Skool4_crxvpu.webp",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  },
+  {
+    "id_sku_global": "000022",
+    "marca": "TESTE",
+    "modelo": "TESTE",
+    "silhueta": "TESTE",
+    "descricao_silhueta": "TESTE",
+    "material_principal": [
+      "TESTE",
+      "TESTE"
+    ],
+    "tecnologia_amortecimento": "TESTE",
+    "ano_lancamento_original": 1500,
+    "estilo_uso": [
+      "TESTE",
+      "TESTE"
+    ],
+    "imagens": [
+      {
+        "url": "",
+        "descricao": "Visão lateral do tênis"
+      },
+      {
+        "url": "",
+        "descricao": "Parte superior e detalhes"
+      },
+      {
+        "url": "",
+        "descricao": "Solado e amortecimento"
+      }
+    ]
+  }
+]
